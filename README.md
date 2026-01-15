@@ -1,6 +1,6 @@
 <!-- Visitor badge stays right aligned -->
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iAleeRaza.iAleeRaza" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aayanabro.aayanabro" alt="Visitor Count" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Aayan</h1>
@@ -45,7 +45,7 @@
   <h3>⚡ Stats ⚡</h3>
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=aayanabro&theme=react&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=aayanabro&theme=react&hide_border=true" alt="GitHub Streak" />
   </p>
 </div>
 
